@@ -1,0 +1,35 @@
+MPI v2 (size-aware LPT distribution) | processes: 14 | files: 3000
+rank  files       MB     tokens  local_time_s
+   0    215    19.65    3213879      1.401168
+   1    215    19.65    3211837      1.312624
+   2    212    19.64    3209371      1.272646
+   3    214    19.64    3212438      1.324114
+   4    214    19.64    3209822      1.325835
+   5    215    19.65    3211100      1.367833
+   6    215    19.65    3210246      1.427587
+   7    214    19.64    3209633      1.318197
+   8    215    19.65    3211198      1.280281
+   9    214    19.64    3209449      1.266693
+  10    214    19.64    3209164      1.316551
+  11    214    19.64    3210835      1.284633
+  12    214    19.64    3210784      1.330756
+  13    215    19.65    3211702      1.294118
+LI (max/mean local time): 1.0790
+Relative spread ((max-min)/mean): 0.1216
+Total tokens: 44951458
+Total occurrences: 3631778
+Matches sequential baseline: yes
+
+Top 10 query words in the corpus:
+  a: 785774
+  para: 392156
+  sus: 228913
+  otros: 105530
+  ante: 99832
+  unos: 88794
+  otra: 83901
+  vosotros: 61617
+  mios: 58420
+  tuya: 56635
+
+EXECUTION_TIME=1.486090
