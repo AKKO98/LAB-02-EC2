@@ -1,0 +1,7 @@
+== Environment
+nproc=16
+model name	: AMD Ryzen 7 5700X 8-Core Processor
+MemTotal:       16326300 kB
+Python 3.8.20
+mpi4py 4.1.1
+mpirun (Open MPI) 4.1.4
